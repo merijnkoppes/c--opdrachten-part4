@@ -1,0 +1,15 @@
+C:\Users\koppe\source\repos\opdrachtenpart2\bin\Debug\net6.0\opdrachtenpart2.exe
+C:\Users\koppe\source\repos\opdrachtenpart2\bin\Debug\net6.0\opdrachtenpart2.deps.json
+C:\Users\koppe\source\repos\opdrachtenpart2\bin\Debug\net6.0\opdrachtenpart2.runtimeconfig.json
+C:\Users\koppe\source\repos\opdrachtenpart2\bin\Debug\net6.0\opdrachtenpart2.dll
+C:\Users\koppe\source\repos\opdrachtenpart2\bin\Debug\net6.0\opdrachtenpart2.pdb
+C:\Users\koppe\source\repos\opdrachtenpart2\obj\Debug\net6.0\opdrachtenpart2.csproj.AssemblyReference.cache
+C:\Users\koppe\source\repos\opdrachtenpart2\obj\Debug\net6.0\opdrachtenpart2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koppe\source\repos\opdrachtenpart2\obj\Debug\net6.0\opdrachtenpart2.AssemblyInfoInputs.cache
+C:\Users\koppe\source\repos\opdrachtenpart2\obj\Debug\net6.0\opdrachtenpart2.AssemblyInfo.cs
+C:\Users\koppe\source\repos\opdrachtenpart2\obj\Debug\net6.0\opdrachtenpart2.csproj.CoreCompileInputs.cache
+C:\Users\koppe\source\repos\opdrachtenpart2\obj\Debug\net6.0\opdrachtenpart2.dll
+C:\Users\koppe\source\repos\opdrachtenpart2\obj\Debug\net6.0\refint\opdrachtenpart2.dll
+C:\Users\koppe\source\repos\opdrachtenpart2\obj\Debug\net6.0\opdrachtenpart2.pdb
+C:\Users\koppe\source\repos\opdrachtenpart2\obj\Debug\net6.0\opdrachtenpart2.genruntimeconfig.cache
+C:\Users\koppe\source\repos\opdrachtenpart2\obj\Debug\net6.0\ref\opdrachtenpart2.dll
