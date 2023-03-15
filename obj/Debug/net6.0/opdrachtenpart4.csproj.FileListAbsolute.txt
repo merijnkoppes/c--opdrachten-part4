@@ -1,0 +1,15 @@
+C:\Users\koppe\Source\Repos\c--opdrachten-part4\obj\Debug\net6.0\opdrachtenpart4.csproj.AssemblyReference.cache
+C:\Users\koppe\Source\Repos\c--opdrachten-part4\obj\Debug\net6.0\opdrachtenpart4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koppe\Source\Repos\c--opdrachten-part4\obj\Debug\net6.0\opdrachtenpart4.AssemblyInfoInputs.cache
+C:\Users\koppe\Source\Repos\c--opdrachten-part4\obj\Debug\net6.0\opdrachtenpart4.AssemblyInfo.cs
+C:\Users\koppe\Source\Repos\c--opdrachten-part4\obj\Debug\net6.0\opdrachtenpart4.csproj.CoreCompileInputs.cache
+C:\Users\koppe\Source\Repos\c--opdrachten-part4\bin\Debug\net6.0\opdrachtenpart4.exe
+C:\Users\koppe\Source\Repos\c--opdrachten-part4\bin\Debug\net6.0\opdrachtenpart4.deps.json
+C:\Users\koppe\Source\Repos\c--opdrachten-part4\bin\Debug\net6.0\opdrachtenpart4.runtimeconfig.json
+C:\Users\koppe\Source\Repos\c--opdrachten-part4\bin\Debug\net6.0\opdrachtenpart4.dll
+C:\Users\koppe\Source\Repos\c--opdrachten-part4\bin\Debug\net6.0\opdrachtenpart4.pdb
+C:\Users\koppe\Source\Repos\c--opdrachten-part4\obj\Debug\net6.0\opdrachtenpart4.dll
+C:\Users\koppe\Source\Repos\c--opdrachten-part4\obj\Debug\net6.0\refint\opdrachtenpart4.dll
+C:\Users\koppe\Source\Repos\c--opdrachten-part4\obj\Debug\net6.0\opdrachtenpart4.pdb
+C:\Users\koppe\Source\Repos\c--opdrachten-part4\obj\Debug\net6.0\opdrachtenpart4.genruntimeconfig.cache
+C:\Users\koppe\Source\Repos\c--opdrachten-part4\obj\Debug\net6.0\ref\opdrachtenpart4.dll
